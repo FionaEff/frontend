@@ -37,7 +37,6 @@ body {
     height: 600px;
     background-color: yellow;
     border: 2px solid grey;
-    
 }
 
 .small-box {
@@ -47,6 +46,7 @@ body {
     height: 50px;
     border: 2px solid red;
     background-color: violet;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .container {
